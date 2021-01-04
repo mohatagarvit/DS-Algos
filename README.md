@@ -1,5 +1,6 @@
 # DS-Algos
-
+## Useful analogies in Computer Science and Maths
+- Occam's Razor
 ## Practice Questions
 ### Contents
 - [Array](#array)
@@ -7,6 +8,7 @@
   - [Two Pointer Method](#two-pointer-method)
 - [Binary Search](#binary-search)
 - [Merge Sort](#merge-sort)
+- [Divide and Conquer](#divide-and-conquer)
 ### Array
 
 #### Array Operations
@@ -25,7 +27,13 @@
 | [Find first and last position of element in sorted array.](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/solution/) |O(logn)|
 | [Find number of occurrences of an element in sorted array.](https://leetcode.com/discuss/interview-question/124724/) | O(logn)  |
 | [More Questions](https://medium.com/techie-delight/binary-search-practice-problems-4c856cd9f26c) | |
+
 ### Merge Sort
 |Questions|Complexity|
 |:--:|:--:|
 | [Counting inversions in merge sort](https://www.hackerrank.com/challenges/ctci-merge-sort/problem) | |
+
+### Divide and Conquer
+|Questions|Complexity|
+|:--:|:--:|
+| Maximum Subarray Sum {[link1](https://www.hackerrank.com/challenges/maxsubarray/problem) [link2](https://leetcode.com/problems/maximum-subarray/submissions/)}| O(n) | 
