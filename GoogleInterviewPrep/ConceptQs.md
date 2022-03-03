@@ -20,8 +20,8 @@
 ### Linked List
 1. [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/). [2095. Delete the Middle Node of a Linked List(https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
 2. [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/).
-2. [148. Sort List](https://leetcode.com/problems/sort-list/)
-3. [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+3. [148. Sort List](https://leetcode.com/problems/sort-list/)
+4. [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/). [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/). [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 
 ### Binary Tree
 1. [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/). [Recursive](https://leetcode.com/submissions/detail/649987320/). [Iterative](https://leetcode.com/submissions/detail/650000642/)
