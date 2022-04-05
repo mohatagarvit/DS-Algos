@@ -12,6 +12,10 @@
 15. [396. Rotate Function](https://leetcode.com/problems/rotate-function/)
 16. [650. 2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/)
 17. [2017. Grid Game](https://leetcode.com/problems/grid-game/)
+18. [31. Next Permutation](https://leetcode.com/problems/next-permutation/)
+19. [769. Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/). [768. Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/)
+20. [799. Champagne Tower](https://leetcode.com/problems/champagne-tower/)
+21. [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)
 
 ### Array Traversal
 1. [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
@@ -23,6 +27,8 @@
 3. [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 4. [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)
 5. 
+### Intervals
+1.[57. Insert Interval](https://leetcode.com/problems/insert-interval/)
 
 ### Greedy
 1. [56. Merge Intervals](https://leetcode.com/problems/merge-intervals)
@@ -30,11 +36,16 @@
 3. [452. Minimum Number of Arrows to Burst Balloons)(https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
 4. [](https://leetcode.com/problems/remove-covered-intervals/)
 
+### DP
+1. [198. House Robber](https://leetcode.com/problems/house-robber/)
+2. [213. House Robber II](https://leetcode.com/problems/house-robber-ii/)
+
 ### Linked List
 1. [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/). [2095. Delete the Middle Node of a Linked List(https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
 2. [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/).
-3. [148. Sort List](https://leetcode.com/problems/sort-list/)
-4. [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/). [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/). [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+3. [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
+4. [148. Sort List](https://leetcode.com/problems/sort-list/)
+5. [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/). [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/). [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 
 ### Binary Tree
 1. [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/). [Recursive](https://leetcode.com/submissions/detail/649987320/). [Iterative](https://leetcode.com/submissions/detail/650000642/)
@@ -42,17 +53,26 @@
 3. [100. Same Tree](https://leetcode.com/problems/same-tree). [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
 4. [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
-
+### Matrix
+1. [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 ### Palindrome
-1. [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
-2. [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence)
-3. [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings)
-4. [Other Palindrome Questions](https://leetcode.com/problemset/all/?search=palindrome&page=1)
+1. [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
+2. [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
+3. [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence)
+4. [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings)
+5. [Other Palindrome Questions](https://leetcode.com/problemset/all/?search=palindrome&page=1)
+6. [132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)
+
+### Hashing
+1. [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/)
+
 
 ### Sum
-1. [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
-2. [15. 3Sum](https://leetcode.com/problems/3sum/). [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
-3. [18. 4Sum](https://leetcode.com/problems/4sum/). [454. 4Sum II](https://leetcode.com/problems/4sum-ii/)
+  1. [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/). [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/). [220. Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)
+2. [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+3. [1. Two Sum](https://leetcode.com/problems/two-sum). [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+4. [15. 3Sum](https://leetcode.com/problems/3sum/). [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+5. [18. 4Sum](https://leetcode.com/problems/4sum/). [454. 4Sum II](https://leetcode.com/problems/4sum-ii/)
 
 ### Binary Search
 1. [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/). [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/). 
@@ -64,6 +84,7 @@
 7. [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
 8. [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)
 9. [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)
+10. [2226. Maximum Candies Allocated to K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/)
 
 ### 2 Pointer
 1. [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/). [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
@@ -83,4 +104,11 @@
 5. [77. Combinations](https://leetcode.com/problems/combinations)
 6. [78. Subsets](https://leetcode.com/problems/subsets). [90. Subsets II](https://leetcode.com/problems/subsets-ii)
 7. [51. N-Queens](https://leetcode.com/problems/n-queens). [52. N-Queens II](https://leetcode.com/problems/n-queens-ii)
-8. 
+8. [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
+9. 
+### Bucketing
+1. [220. Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)
+
+### Misc
+1. [326. Power of Three](https://leetcode.com/problems/power-of-three/)
+2. [342. Power of Four](https://leetcode.com/problems/power-of-four/)
