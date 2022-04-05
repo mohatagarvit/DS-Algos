@@ -5,6 +5,9 @@
   4. [2091. Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/)
   5. [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
   6. [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/). [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
+7. [848. Shifting Letters](https://leetcode.com/problems/shifting-letters/)
+8. [2125. Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)
+9. [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)
 
 ### String
 1. [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/)
