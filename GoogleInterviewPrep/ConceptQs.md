@@ -21,6 +21,10 @@
 1. [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 2. 
 
+### Ugly
+1. [263. Ugly Number](https://leetcode.com/problems/ugly-number/). [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)
+2. [1201. Ugly Number III](https://leetcode.com/problems/ugly-number-iii/)
+3. 
 ### Stack
 1. [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 2. [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
@@ -55,6 +59,9 @@
 
 ### Matrix
 1. [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+2. [289. Game of Life](https://leetcode.com/problems/game-of-life/)
+3. [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/). [885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)
+
 ### Palindrome
 1. [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 2. [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
@@ -96,7 +103,7 @@
 2. [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
 3. [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 4. 
-### Backtracking
+### Recursion and Backtracking
 1. [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 2. [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 3. [39. Combination Sum](https://leetcode.com/problems/combination-sum). [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii)
@@ -112,3 +119,6 @@
 ### Misc
 1. [326. Power of Three](https://leetcode.com/problems/power-of-three/)
 2. [342. Power of Four](https://leetcode.com/problems/power-of-four/)
+
+### Must-Do Question Bank
+1. [494. Target Sum](https://leetcode.com/problems/target-sum/)
