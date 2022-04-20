@@ -57,6 +57,10 @@
 3. [100. Same Tree](https://leetcode.com/problems/same-tree). [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
 4. [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
+### Binary Search Tree
+1. [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/). [Closest Binary Search Tree Value (premium)](https://leetcode.com/problems/closest-binary-search-tree-value/)
+2. 
+
 ### Matrix
 1. [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 2. [289. Game of Life](https://leetcode.com/problems/game-of-life/)
